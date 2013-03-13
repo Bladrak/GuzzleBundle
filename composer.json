@@ -32,8 +32,8 @@
     },
 
     "autoload": {
-        "psr-0": { "Bladrak\\GuzzleBundle": "" }
+        "psr-0": { "Ddeboer\\GuzzleBundle": "" }
     },
 
-    "target-dir": "Bladrak/GuzzleBundle"
+    "target-dir": "Ddeboer/GuzzleBundle"
 }
